@@ -1,3 +1,9 @@
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/9yGE--mT64s/0.jpg)](https://www.youtube.com/watch?v=9yGE--mT64s)
+
+Click the image above to watch the demo video on YouTube.
+
 # Voice Agent Microservice
 
 A modular, voice-enabled AI assistant built with **LiveKit Agents**, supporting **speech-to-text (STT), text-to-speech (TTS), LLM responses**, and noise cancellation. Designed with a **micro-architecture**, separating agents, sessions, and utilities for maintainability and scalability.  
