@@ -6,23 +6,23 @@ A modular, voice-enabled AI assistant built with **LiveKit Agents**, supporting 
 
 ## 📁 Project Structure
 
-voice-agent/
-├── src/
-│ ├── agents/
-│ │ ├── init.py
-│ │ └── voice_agent.py # Voice agent logic
-│ ├── sessions/
-│ │ ├── init.py
-│ │ └── entrypoint.py # Orchestrates agent sessions
-│ ├── utils/
-│ │ ├── init.py
-│ │ └── logger.py # Logger setup
-│ │ └── config.py # Loads .env and API keys
-│ └── main.py # Entrypoint to run the agent
-├── .env # Environment variables and API keys
-├── requirements.txt
-├── README.md
-└── .gitignore
+  voice-agent/
+  ├── src/
+  │ ├── agents/
+  │ │ ├── init.py
+  │ │ └── voice_agent.py # Voice agent logic
+  │ ├── sessions/
+  │ │ ├── init.py
+  │ │ └── entrypoint.py # Orchestrates agent sessions
+  │ ├── utils/
+  │ │ ├── init.py
+  │ │ └── logger.py # Logger setup
+  │ │ └── config.py # Loads .env and API keys
+  │ └── main.py # Entrypoint to run the agent
+  ├── .env # Environment variables and API keys
+  ├── requirements.txt
+  ├── README.md
+  └── .gitignore
 
 
 ---
