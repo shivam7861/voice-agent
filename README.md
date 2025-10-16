@@ -43,7 +43,7 @@ A modular, voice-enabled AI assistant built with **LiveKit Agents**, supporting 
 
 1. **Clone the repository**
 ```bash
-git clone <your_repo_url>
+git clone https://github.com/shivam7861/voice-agent
 cd voice-agent-micro
 ```
 2. **Create and activate a virtual environment**
@@ -72,7 +72,8 @@ GROQ_API_KEY=your_groq_key
 5. ** Running the Voice Agent **
 ```
 python -m src.main dev
+```
 dev enables development mode for LiveKit agents.
 The agent will automatically connect to LiveKit, initialize STT, TTS, and LLM, and start interacting with users.
-```
+
 
