@@ -1,0 +1,6 @@
+livekit
+python-dotenv
+assemblyai
+elevenlabs
+groq
+pytest
