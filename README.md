@@ -55,6 +55,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 3.  ** Install dependencies **
+
 ```pip install -r requirements.txt```
 
 4.  ** Create .env file in the project root with your API keys: **
